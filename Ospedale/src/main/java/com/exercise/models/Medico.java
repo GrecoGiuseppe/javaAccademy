@@ -44,6 +44,6 @@ public class Medico {
 	@OneToMany(mappedBy = "medico")
 	private Set<Appuntamento> appuntamenti;
 		
-	
+	//HO MODIFICATO QUESTA CLASSE
 
 }
