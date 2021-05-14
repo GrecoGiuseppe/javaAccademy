@@ -38,6 +38,7 @@ public class Appuntamento {
 	private Medico medico;
 
 	// Prima di uscire a mangiare sushi lavare capelli
+	// tornare a casa prima del coprifuoco
 	
 	
 }
