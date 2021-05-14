@@ -36,7 +36,8 @@ public class Appuntamento {
 	
 	@ManyToOne
 	private Medico medico;
-	
+
+	// Prima di uscire a mangiare sushi lavare capelli
 	
 	
 }
