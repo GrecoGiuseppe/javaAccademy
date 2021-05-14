@@ -45,5 +45,6 @@ public class Medico {
 	private Set<Appuntamento> appuntamenti;
 		
 	//HO MODIFICATO QUESTA CLASSE
+	//GIUSEPPE FORZA JUVE
 
 }
